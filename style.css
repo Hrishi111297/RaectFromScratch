@@ -1,0 +1,13 @@
+#color{background-color: red;
+color:bisque;
+display: inline;
+}
+#root{
+    width: 50%;
+    height:50%;
+    background-color: greenyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
